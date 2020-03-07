@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<login>
+  <valid email = "sergey@test.com" password = "test123">
+  </valid>
+  <invalid email = "sergey@t.com" password = "test123">
+  </invalid>
+</login>

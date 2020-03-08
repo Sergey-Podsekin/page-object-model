@@ -20,4 +20,4 @@ def creds(val, type):
                     return child.attrib['password']
 
 
-print(creds('valid', 'email'))
+# print(creds('valid', 'email'))
